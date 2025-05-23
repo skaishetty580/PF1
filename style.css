@@ -526,7 +526,7 @@ th {
         flex-direction: column;
         gap: 8px;
     }
-}
+
 /* Mortgage Page Specific Styles */
 .mortgage-hero {
     padding: 120px 0 60px;
@@ -611,4 +611,5 @@ th {
     #mortgage-calculator {
         padding: 20px;
     }
+}
 }
